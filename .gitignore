@@ -1,0 +1,17 @@
+# Binaries and executables
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Build directories
+build/
+bin/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
