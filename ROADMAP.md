@@ -35,8 +35,8 @@
 
 ### 📍 Level 2: The Core Math Engines (The Muscle)
 - [x] **2.1 Matrix Multiplication (`MatMul`)**: The single most important operation in AI (Dot product of rows and columns).
-- [ ] **2.2 Activation Functions**: Writing `Softmax`, `RMSNorm` (Root Mean Square Normalization), and `SiLU/SwiGLU`.
-- [ ] **2.3 Verification Test**: Writing a small test program to verify that our math outputs match standard math.
+- [x] **2.2 Activation Functions**: Writing `Softmax`, `RMSNorm` (Root Mean Square Normalization), and `SiLU/SwiGLU`.
+- [x] **2.3 Verification Test**: Writing a small test program to verify that our math outputs match standard math.
 
 ### 📍 Level 3: The Transformer Architecture (The Brain)
 - [ ] **3.1 Token Embeddings**: How a token ID (e.g. word "cat" = 42) turns into a vector of numbers.
